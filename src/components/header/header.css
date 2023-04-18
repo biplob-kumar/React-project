@@ -1,0 +1,9 @@
+.header {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  text-align: center;
+  background-color: coral;
+  padding: 15px;
+  color: whitesmoke;
+  font-weight: bold;
+}

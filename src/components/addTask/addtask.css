@@ -1,0 +1,15 @@
+select {
+  padding: 10px 8px;
+  width: 100%;
+}
+.addTaskForm{
+    background-color: #d9f1f1;
+    width: 100%;
+}
+.addTaskForm h3{
+    text-align: center;
+    padding: 10px;
+}
+.addTaskForm form{
+    padding: 10px;
+}

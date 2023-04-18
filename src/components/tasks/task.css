@@ -1,0 +1,21 @@
+.taskContainer{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 5px;
+}
+
+.taskCard{
+    background-color: coral;
+    padding: 25px ;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 5px;
+    border-radius: 10px 20px 0 50px ;
+}
+.taskBoxes h3{
+    padding:20px 0 5px 0;
+
+}
+.category span{
+    color: rgb(215, 34, 221);
+}

@@ -1,0 +1,13 @@
+.teams{
+  background-color: #e5ffff;
+  padding:20px 0;
+  text-align:center;
+}
+
+.teamCard {
+  background-color: coral;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 8px;
+}
+
